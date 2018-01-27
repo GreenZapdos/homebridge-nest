@@ -1,3 +1,6 @@
+# note
+[The project](https://github.com/KraigM/homebridge-nest) hasn't been updated in a while so I'm merging some of the pull requests here.
+
 # homebridge-nest
 Nest plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
