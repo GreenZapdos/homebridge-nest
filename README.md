@@ -1,5 +1,15 @@
-# note
-[The project](https://github.com/KraigM/homebridge-nest) hasn't been updated in a while so I'm merging some of the pull requests here.
+# Notes
+[The project](https://github.com/KraigM/homebridge-nest) hasn't been updated in a while so I'm merging some of the pull requests here. 
+
+## How to install the updates
+1. Stop homebridge
+2. Uninstall the old version: `npm -g uninstall homebridge-nest`
+3. Install this version: `npm install -g git+https://github.com/GreenZapdos/homebridge-nest.git`
+4. Start homebridge
+
+## Changes
+- [Fix for incorrect Fahrenheit rounding](https://github.com/KraigM/homebridge-nest/pull/158)
+- [Add seperate fan device to control Nest fan](https://github.com/KraigM/homebridge-nest/pull/130)
 
 # homebridge-nest
 Nest plugin for [HomeBridge](https://github.com/nfarina/homebridge)
