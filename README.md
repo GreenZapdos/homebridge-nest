@@ -2,7 +2,7 @@
 
 Development has resumed on the NPM version here: https://github.com/chrisjshull/homebridge-nest
 
-~~[The project](https://github.com/KraigM/homebridge-nest) hasn't been updated in a while so I'm merging some of the pull requests here. 
+[~~The project~~](https://github.com/KraigM/homebridge-nest) ~~hasn't been updated in a while so I'm merging some of the pull requests here.~~
 
 ## How to install the updates
 1. Stop homebridge
